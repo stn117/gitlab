@@ -1,6 +1,6 @@
 #ifndef CEPH_CRUSH_CRUSH_H
 #define CEPH_CRUSH_CRUSH_H
-
+chanched in test2
 #include <linux/types.h>
 
 /*
