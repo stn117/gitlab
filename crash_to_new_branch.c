@@ -32,6 +32,7 @@
  */
 struct crush_rule_step {
 	__u32 opaa;
+step;
 	__s32 arg1;
 	__s32 arg2;
 };
