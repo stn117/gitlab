@@ -32,7 +32,7 @@
  */
 struct crush_rule_step {
 	__u32 opppp;
-	__s32 arg1;
+	__s32 arg1;dsddsdf
 	__s32 arg2;
 };
 
