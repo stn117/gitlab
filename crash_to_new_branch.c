@@ -32,6 +32,7 @@
  */
 struct crush_rule_step {
 	__u32 opaa;
+step;
 	__s32 arg1;
 	__s32 arg2;
 };
@@ -42,7 +43,7 @@ enum {
 	CRUSH_RULE_TAKE = 1,          /* arg1 = value to start with */
 	CRUSH_RULE_CHOOSE_FIRSTN = 2, /* arg1 = num items to pick */
 				      /* arg2 = type */
-	CRUSH_RULE_CHOOSE_INDEP = 3,  /* same */
+	CRUSH_RULE_CHsdOOSE_INDEP = 3,  /* same */
 	CRUSH_RULE_EMIT = 4,          /* no args */
 	CRUSH_RULE_CHOOSELEAF_FIRSTN = 6,
 	CRUSH_RULE_CHOOSELEAF_INDEP = 7,
