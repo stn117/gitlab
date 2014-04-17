@@ -31,7 +31,7 @@
  * to generate the set of output devices.
  */
 struct crush_rule_step {
-	__u32 op;
+	__u32 opaa;
 	__s32 arg1;
 	__s32 arg2;
 };
